@@ -41,6 +41,7 @@ addons:
     metallb_auto_assign: true
     metallb_version: v0.12.1
     metallb_protocol: "layer2"
+    metallb_namespace: "metallb"
 ```
 
 ### Rook addon
